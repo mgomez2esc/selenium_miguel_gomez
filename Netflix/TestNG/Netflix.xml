@@ -1,0 +1,13 @@
+<suite name = "Netflix">
+
+    <parameter name = "tagName" value = "h2"></parameter>
+
+    <test name = "Netflix TestNG">
+        <classes>
+            <class name = "Practico16.Netflix.Test.NetflixLandingPageTest"></class>
+            <class name = "Practico16.Netflix.Test.NetflixRegistrationPageTest"></class>
+        </classes>
+
+    </test>
+
+</suite>
